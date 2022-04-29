@@ -10,10 +10,7 @@ import './App.css';
 
 const rootElement = document.getElementById('root');
 ReactDOM.render(
-  <BrowserRouter basename={optionalString}
-  forceRefresh={optionalBool}
-  getUserConfirmation={optionalFunc}
-  keyLength={optionalNumber}>
+  <BrowserRouter>
     <Routes>
       <Route path="/" element={<App />}>
         <Route path="expenses" element={<Expenses />} />
