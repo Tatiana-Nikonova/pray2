@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pray/static/css/main.c341cbaf.css",
+    "main.js": "/pray/static/js/main.1120943e.js",
+    "static/media/Vasilij.jpg": "/pray/static/media/Vasilij.021401dd88341227a94f.jpg",
+    "static/media/Valentina.jpg": "/pray/static/media/Valentina.9ffbd7127b4daaabc188.jpg",
+    "static/media/otrok.jpg": "/pray/static/media/otrok.11267149e4944d693096.jpg",
+    "static/media/Andrej.jpg": "/pray/static/media/Andrej.dba0fe55ee2f9684d870.jpg",
+    "index.html": "/pray/index.html",
+    "main.c341cbaf.css.map": "/pray/static/css/main.c341cbaf.css.map",
+    "main.1120943e.js.map": "/pray/static/js/main.1120943e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c341cbaf.css",
+    "static/js/main.1120943e.js"
+  ]
+}
