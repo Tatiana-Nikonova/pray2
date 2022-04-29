@@ -76,7 +76,7 @@ a {
 	box-shadow: 1px 1px 10px #fff;
 	text-shadow: 1px 1px 5px rgb(85, 84, 84);
 	font-family: 'Merriweather', serif;
-	@include adaptiveFont(20, 18);
+	@include adaptiveFont(16, 10);
 	transition: all 0.5s ease 0s;
 	&:hover, &:focus {
 		background-color: rgb(241, 165, 206);
