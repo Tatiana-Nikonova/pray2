@@ -6,7 +6,7 @@ import Expenses from './routes/expenses';
 import Invoices from './routes/invoices';
 import Rulls from './routes/rulls';
 import Rules from './routes/rules';
-import './App.css';
+import './main.css';
 
 const rootElement = document.getElementById('root');
 ReactDOM.render(
